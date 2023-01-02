@@ -1267,6 +1267,7 @@ input, select, textarea {
 
 			body.fullscreen #viewer .inner .toggle {
 				background-image: url("images/open.svg");
+			        width: 100vh;	
 			}
 
 		body.is-preload-1 #viewer {
