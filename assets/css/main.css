@@ -1223,6 +1223,9 @@ input, select, textarea {
 				background-repeat: no-repeat;
 				background-size: contain;
 				opacity: 0;
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
 			}
 
 			#viewer .slide:before {
