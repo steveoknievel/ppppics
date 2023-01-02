@@ -1222,6 +1222,7 @@ input, select, textarea {
 				height: 100vh;
 				background-repeat: no-repeat;
 				background-size: contain;
+				background-position: center; 
 				opacity: 0;
 				display: block;
 				margin-left: auto;
